@@ -196,8 +196,6 @@ The 3 Series effectively subsidizes BMW’s transition to electric, while govern
 
 ## 💎 Key KPIs Displayed
 
-* [x] Initial release of the core API
-
 * Maximum Car Price: $123.46K
 
 * Average Tax: $131.60
