@@ -194,21 +194,17 @@ o Z3 – 0.14%
 ### Insight:
 The 3 Series effectively subsidizes BMW’s transition to electric, while government incentives successfully minimize tax burdens for i-series models.
 
-##💎 Key KPIs Displayed
+## 💎 Key KPIs Displayed
 
-• Total Listings
+* [x] Initial release of the core API
 
-• Dominant BMW Model
+* Maximum Car Price: $123.46K
 
-• Peak Listing Year
+* Average Tax: $131.60
 
-• Most Common Fuel Type
+* Estimated Top Speed: 56.48
 
-• Preferred Transmission
-
-• Highest Value Model
-
-• Highest Tax Contributor
+* Average Engine Size: 2.2
 
 ## 🏁 Conclusion
 
