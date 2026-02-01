@@ -109,6 +109,9 @@ This EDA phase formed the backbone of the final dashboard.
 
 • Designed visuals to support storytelling, not just reporting
 
+<img width="876" height="507" alt="BMW_Car_Analysis_Dashboard" src="https://github.com/user-attachments/assets/78ef9abc-f069-4873-bf46-7932d23ec0c8" />
+
+
 ## 💡 Dashboard & Key Insights
 ### 🚘 BMW Model Dominance
 
