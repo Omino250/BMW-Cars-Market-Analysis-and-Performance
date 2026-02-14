@@ -109,7 +109,7 @@ This EDA phase formed the backbone of the final dashboard.
 
 • Designed visuals to support storytelling, not just reporting
 
-<img width="933" height="510" alt="BMW_Car_Analysis_Dashboard " src="https://github.com/user-attachments/assets/96a4c832-3841-45a3-8368-7c7bcccd65db" />
+<img width="880" height="503" alt="BMW_Dashboard " src="https://github.com/user-attachments/assets/c85a95a2-e287-4ca1-920e-a56114f7a8f8" />
 
 
 
