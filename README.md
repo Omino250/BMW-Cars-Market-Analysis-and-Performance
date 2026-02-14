@@ -109,7 +109,8 @@ This EDA phase formed the backbone of the final dashboard.
 
 • Designed visuals to support storytelling, not just reporting
 
-<img width="876" height="507" alt="BMW_Car_Analysis_Dashboard" src="https://github.com/user-attachments/assets/78ef9abc-f069-4873-bf46-7932d23ec0c8" />
+<img width="933" height="510" alt="BMW_Car_Analysis_Dashboard " src="https://github.com/user-attachments/assets/96a4c832-3841-45a3-8368-7c7bcccd65db" />
+
 
 
 ## 💡 Dashboard & Key Insights
@@ -203,7 +204,7 @@ The 3 Series effectively subsidizes BMW’s transition to electric, while govern
 
 * Average Tax: $131.60
 
-* Estimated Top Speed: 56.48
+* Average Fuel Efficiency (MPG): 56.48
 
 * Average Engine Size: 2.2
 
