@@ -1,4 +1,4 @@
-# 🚗📊 BMW Cars Market Analysis & Performance Dashboard
+# 🚗📊 BMW Cars Market Analysis & Performance
 ## 🎯 Project Overview
 
 The BMW automotive market spans a wide range of models, fuel technologies, and customer preferences. However, raw listing data alone does not clearly explain which models drive volume, how market demand has evolved, or where BMW’s value and tax exposure truly lie.
